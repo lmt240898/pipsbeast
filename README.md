@@ -22,15 +22,10 @@
 
 | Feature | Description |
 |---------|-------------|
-| 🤖 **AI Signal Generation** | Automated market analysis powered by AI (Gemini, DeepSeek) with multi-model fallback |
-| 📊 **Multi-Timeframe Analysis** | Cross-timeframe analysis (M15, H1, H4, D1) combined with multiple technical indicators |
+| 🤖 **AI Signal Generation** | Automated market analysis powered by AI Gemini Model |
+| 📊 **Multi-Timeframe Analysis** | Cross-timeframe analysis (H1, H4, D1) combined with multiple technical indicators |
 | 🛡️ **Smart Risk Management** | Automated Trailing Stop Loss, Early Profit Taking, and All Orders Profit |
 | ⏰ **Auto Scheduling** | Intelligent trade scheduling based on broker timezone, auto-skip weekends |
-| 🔐 **Secure Authentication** | Google OAuth login for secure access |
-| 📈 **Real-time Monitoring** | Live order tracking and performance dashboard |
-| 🔄 **Hot-Reload Config** | Adjust risk management settings on-the-fly without restarting |
-| 📝 **Advanced Logging** | Detailed per-order logging for easy debugging and trade review |
-
 ---
 
 ## 🖥️ System Requirements
