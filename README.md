@@ -10,7 +10,7 @@
 [![Downloads](https://img.shields.io/github/downloads/lmt240898/pipsbeast/total?style=for-the-badge&color=blue)](https://github.com/lmt240898/pipsbeast/releases)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010+-0078D6?style=for-the-badge&logo=windows)](https://github.com/lmt240898/pipsbeast/releases/latest)
 
-**Giao dịch Forex thông minh hơn với sức mạnh AI**
+**Trade smarter with the power of AI**
 
 [⬇️ Download Latest](https://github.com/lmt240898/pipsbeast/releases/latest) · [📖 Features](#-features) · [🐛 Report Bug](https://github.com/lmt240898/pipsbeast/issues)
 
@@ -22,14 +22,14 @@
 
 | Feature | Description |
 |---------|-------------|
-| 🤖 **AI Signal Generation** | Phân tích thị trường tự động bằng AI (Gemini, DeepSeek) với multi-model fallback |
-| 📊 **Multi-Timeframe Analysis** | Phân tích đa khung thời gian (M15, H1, H4, D1) kết hợp nhiều indicators |
-| 🛡️ **Smart Risk Management** | Trailing Stop Loss, Early Profit Taking, All Orders Profit tự động |
-| ⏰ **Auto Scheduling** | Tự động lên lịch giao dịch theo timezone broker, skip cuối tuần |
-| 🔐 **Google OAuth Login** | Đăng nhập bảo mật qua tài khoản Google |
-| 📈 **Real-time Monitoring** | Theo dõi lệnh và hiệu suất giao dịch real-time |
-| 🔄 **Hot-Reload Config** | Thay đổi cấu hình risk management mà không cần restart |
-| 📝 **Advanced Logging** | Log chi tiết theo từng lệnh, dễ dàng debug và review |
+| 🤖 **AI Signal Generation** | Automated market analysis powered by AI (Gemini, DeepSeek) with multi-model fallback |
+| 📊 **Multi-Timeframe Analysis** | Cross-timeframe analysis (M15, H1, H4, D1) combined with multiple technical indicators |
+| 🛡️ **Smart Risk Management** | Automated Trailing Stop Loss, Early Profit Taking, and All Orders Profit |
+| ⏰ **Auto Scheduling** | Intelligent trade scheduling based on broker timezone, auto-skip weekends |
+| 🔐 **Secure Authentication** | Google OAuth login for secure access |
+| 📈 **Real-time Monitoring** | Live order tracking and performance dashboard |
+| 🔄 **Hot-Reload Config** | Adjust risk management settings on-the-fly without restarting |
+| 📝 **Advanced Logging** | Detailed per-order logging for easy debugging and trade review |
 
 ---
 
@@ -38,47 +38,47 @@
 | Requirement | Detail |
 |-------------|--------|
 | **OS** | Windows 10 / 11 (64-bit) |
-| **RAM** | 4 GB trở lên |
-| **MetaTrader 5** | Đã cài đặt và có tài khoản broker |
-| **Internet** | Kết nối ổn định |
+| **RAM** | 4 GB or higher |
+| **MetaTrader 5** | Installed with an active broker account |
+| **Internet** | Stable connection required |
 
 ---
 
 ## 📥 Installation
 
-1. Tải file **`pipsbeast_x.x.x.exe`** từ [📦 Releases](https://github.com/lmt240898/pipsbeast/releases/latest)
-2. Chạy installer và làm theo hướng dẫn
-3. Mở **Pipsbeast** → Đăng nhập bằng Google
-4. Kết nối tài khoản MT5 → Bắt đầu giao dịch!
+1. Download the latest **`pipsbeast_x.x.x.exe`** from [📦 Releases](https://github.com/lmt240898/pipsbeast/releases/latest)
+2. Run the installer and follow the setup wizard
+3. Open **Pipsbeast** → Sign in with Google
+4. Connect your MT5 account → Start trading!
 
 ---
 
 ## 🛡️ Risk Management
 
-Pipsbeast tích hợp 3 lớp quản lý rủi ro tự động:
+Pipsbeast includes a 3-layer automated risk management system:
 
-| Module | Chức năng |
-|--------|-----------|
-| **Trailing Stop Loss** | Tự động dời SL theo lợi nhuận để bảo toàn lãi |
-| **Early Profit Taking** | Chốt lời sớm khi đạt % mục tiêu (ví dụ: 50% TP) |
-| **All Orders Profit** | Chốt toàn bộ lệnh khi tổng lợi nhuận đạt ngưỡng % Balance |
+| Module | Description |
+|--------|-------------|
+| **Trailing Stop Loss** | Automatically adjusts SL to lock in profits as the trade moves in your favor |
+| **Early Profit Taking** | Closes trades early when a target profit percentage is reached (e.g., 50% of TP) |
+| **All Orders Profit** | Closes all open positions when total profit hits a percentage of account balance |
 
-> Tất cả module đều có thể bật/tắt và điều chỉnh thông số mà không cần restart ứng dụng.
+> All modules can be enabled/disabled and fine-tuned without restarting the application.
 
 ---
 
 ## 📸 Screenshots
 
-> *Screenshots sẽ được cập nhật trong các bản release tiếp theo.*
+> *Screenshots will be added in upcoming releases.*
 
 ---
 
 ## ⚠️ Disclaimer
 
-> **Cảnh báo rủi ro:** Giao dịch Forex có rủi ro cao và có thể dẫn đến mất toàn bộ vốn đầu tư.
-> Phần mềm này chỉ phục vụ mục đích hỗ trợ ra quyết định giao dịch.
-> Kết quả trong quá khứ không đảm bảo lợi nhuận trong tương lai.
-> Người dùng tự chịu trách nhiệm về các quyết định giao dịch của mình.
+> **Risk Warning:** Forex trading involves significant risk and may result in the loss of your invested capital.
+> This software is intended as a trading decision support tool only.
+> Past performance does not guarantee future results.
+> Users are solely responsible for their own trading decisions.
 
 ---
 
