@@ -1,0 +1,12 @@
+# Executables (managed via GitHub Releases)
+*.exe
+*.msi
+*.zip
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Temp files
+*.tmp
+release_notes*.md
